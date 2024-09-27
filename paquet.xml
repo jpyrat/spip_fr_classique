@@ -1,7 +1,7 @@
 <paquet
 	prefix="inclusifclassique"
 	categorie="communication"
-	version="1.0.5"
+	version="1.0.6"
 	etat="stable"
 	compatibilite="[4.2.0;4.*.*]"
 	logo="images/inclusifclassique-32.png"
