@@ -8,8 +8,8 @@
 	documentation="https://github.com/jpyrat/spip_fr_classique"
 >
 
-	<nom>Plugin SPIP en français classique</nom>
-	<!-- Un plugin SPIP pour retrouver une langue française classique. -->
+	<nom>Français classique pour SPIP</nom>
+	<!-- Un plugin pour retrouver une langue française classique dans SPIP -->
 
 	<auteur lien="https://www.pyrat.net/">Jacques Pyrat</auteur>
 

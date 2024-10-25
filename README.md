@@ -1,10 +1,10 @@
-# Plugin pour SPIP fournissant des chaines de langues en français classique
+# Français classique pour SPIP
 
-Un plugin SPIP pour retrouver une langue française classique.
+Un plugin pour retrouver une langue française classique dans SPIP.
 
 # Méthode
 
-Ce plugin surcharge les chaînes de langue de SPIP et d'autres plugins lorsque la formulation le nécessite
+Ce plugin surcharge les chaînes de langue de SPIP et d'autres plugins lorsque la formulation le nécessite.
 
 # Contributions
 
