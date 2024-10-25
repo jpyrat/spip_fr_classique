@@ -1,15 +1,15 @@
 <paquet
-	prefix="inclusifclassique"
+	prefix="frclassique"
 	categorie="communication"
 	version="1.0.6"
 	etat="stable"
 	compatibilite="[4.2.0;4.*.*]"
-	logo="images/inclusifclassique-32.png"
-	documentation="https://github.com/jpyrat/spip_inclusif_classique"
+	logo="images/frclassique-32.png"
+	documentation="https://github.com/jpyrat/spip_fr_classique"
 >
 
-	<nom>SPIP en français inclusif classique</nom>
-	<!-- Un plugin SPIP pour retrouver une langue française naturellement inclusive -->
+	<nom>Plugin SPIP en français classique</nom>
+	<!-- Un plugin SPIP pour retrouver une langue française classique. -->
 
 	<auteur lien="https://www.pyrat.net/">Jacques Pyrat</auteur>
 
