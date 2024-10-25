@@ -1,7 +1,7 @@
 <paquet
 	prefix="frclassique"
 	categorie="communication"
-	version="1.0.6"
+	version="1.1.0"
 	etat="stable"
 	compatibilite="[4.2.0;4.*.*]"
 	logo="images/frclassique-32.png"
