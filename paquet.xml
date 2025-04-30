@@ -1,7 +1,7 @@
 <paquet
 	prefix="frclassique"
 	categorie="communication"
-	version="1.1.1"
+	version="1.1.2"
 	etat="stable"
 	compatibilite="[4.2.0;4.*.*]"
 	logo="images/frclassique-32.png"
@@ -13,7 +13,7 @@
 
 	<auteur lien="https://www.pyrat.net/">Jacques Pyrat</auteur>
 
-	<copyright>2021-2024</copyright>
+	<copyright>2021-2025</copyright>
 
 	<licence lien="http://www.gnu.org/licenses/gpl-3.0.html">GPL 3</licence>
 
@@ -28,6 +28,7 @@
 	<utilise nom="informerpremiereconnexion" />
 	<utilise nom="mailsubscribers" />
 	<utilise nom="minus" />
+	<utilise nom="manuelsite" />
 	<utilise nom="pensebete" />
 	<utilise nom="saisies" />
 	<utilise nom="sarkaspip" />

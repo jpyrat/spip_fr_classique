@@ -7,7 +7,7 @@ return [
 	'avis_connexion_ldap_echec_3' => 'Alternativement, n’utilisez pas le support LDAP pour importer des utilisateurs.',
 	'bouton_radio_apparaitre_liste_redacteurs_connectes' => 'Apparaître dans la liste des rédacteurs connectés',
 	'bouton_radio_non_apparaitre_liste_redacteurs_connectes' => 'Ne pas apparaître dans la liste des rédacteurs',
-	'cache_modifiable_webmestre' => 'Ce paramètre est modifiable par le webmestre du site.',
+	'cache_modifiable_webmestre' => 'Ce paramètre est modifiable par un webmestre du site.',
 	'entree_informations_connexion_ldap' => 'Veuillez entrer dans ce formulaire les informations de connexion à votre annuaire LDAP.
 	Ces informations doivent pouvoir vous être fournies par l’administrateur du système,
 	ou du réseau.',
